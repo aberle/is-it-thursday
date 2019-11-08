@@ -1,7 +1,7 @@
 $(document).ready(function() {
     var date = new Date();
     var day = date.getDay();
-    if (day == 5) {
+    if (day == 4) {
         $("#answer").text("YES");
         $("#answer").addClass('yes');
 
