@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+#puppy-time-message {
+    font-size: 2em;
+}
+#puppy-time-picture {
+    max-width: 35%;
+    max-height: 35%;
+    margin-top: 20px;
+}
+.yes {
+    font-size: 10em;
+    color: green;
+}
+.no {
+    font-size: 20em;
+    color: red;
+}
